@@ -1,0 +1,139 @@
+
+.link55{
+    color: #fff;
+    text-decoration: none;
+}
+.sobrenois{
+    position: absolute;
+    color: white;
+    width: 700px;
+    text-align: center;
+    margin-left: 650px;
+    bottom: 4px;
+    text-decoration: none;
+}
+
+.menu{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: 82%;
+    top: 9px;
+
+}
+.menu2{
+    color:white;
+        text-decoration: none;
+
+}
+.menu3{
+    color:white;
+    text-decoration: none;
+}
+.logo {
+    position: absolute;
+    width:200px;
+    top: 100px;
+    }
+  
+.logo2 {
+    position: absolute;
+    width:200px;
+    top: 100px;
+      
+  }
+  
+      body {
+     min-height: 100vh;
+     background: rgba(0, 0, 0, 0.932);
+     font-family: sans-serif;
+  }
+  
+  
+  header{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 05px;
+    margin-left: 15px;
+  }
+  
+  
+  header ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 05px;
+    margin-bottom: 200px;
+  }
+  
+  
+  header ul li {
+    list-style: none;
+    margin-top: 05px;
+  }
+  
+  
+  header ul li a {
+    text-decoration: none;
+    padding: 30px;
+    color: #fff;
+    margin-top: 05px;
+  }
+  
+  
+  .box{
+  color: #fff;
+  margin-top: 360px;
+  width: 220px;
+  height: 500px;
+  background-color: rgba(255, 255, 255, 0.274);
+  font-size: 25px;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  padding-left: 10px;
+  padding-top: 10px;
+  box-sizing: 200px;
+  }
+
+  .mouse, .teclado, .IEM, .mousepad, .contato{
+    color: white;
+    text-decoration: none;
+  }
+  .linha{
+    background-color: rgba(255, 255, 255, 0.274);
+    background-color: rgba(255, 255, 255, 0.274);
+    width:100%;
+    height:50px;
+    position: absolute;
+    right: 0;
+    top: 2px;
+    margin-top: -2px;
+    margin-left: 0;
+    padding-left:20px;
+    text-align: center;
+   
+}
+
+.inicio{
+    position: absolute;
+    text-align: right;
+    margin-left: 730px;
+    top: 7px;
+    color:white;
+    font-family: sans-serif;
+}
+
+.titulo{
+  position: absolute;
+  font-family: cursive;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  bottom: 60%;
+}
